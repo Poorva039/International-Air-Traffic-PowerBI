@@ -1,7 +1,7 @@
 # ✈️ International Air Traffic Analysis – Power BI Dashboard  
 *Interactive Data Visualization of Passenger and Freight Traffic (2015–2017)*
 
-![Dashboard Preview](images/Air%20Traffic%20first%20Dashboard.png)
+![Dashboard Preview](Images/Air%20Traffic%20first%20Dashboard.png)
 
 ---
 
@@ -24,31 +24,31 @@ This Power BI project analyzes international air traffic to and from India from 
 ## 📊 Key Visualizations
 
 ### 📈 1. Forecasting Passenger Trends  
-![Forecast](images/Forecast.png)
+![Forecast](Images/Forecast.png)
 
 ### 💡 2. Key Influencers for Freight Drop  
-![Key Influencers](images/Key%20Influencers.png)
+![Key Influencers](Images/Key%20Influencers.png)
 
 ### 🧩 3. Decomposition Tree  
-![Decomposition Tree](images/Decomposition%20tree.png)
+![Decomposition Tree](Images/Decomposition%20tree.png)
 
 ### 🗺️ 4. Flow Map of Travel Routes  
-![Flow Map](images/Flow%20map.png)
+![Flow Map](Images/Flow%20map.png)
 
 ### 🌍 5. Country-Wise Passenger Traffic  
-![Country-Wise Passengers](images/Country%20wise%20Passengers%20Air%20Traffic.png)
+![Country-Wise Passengers](Images/Country%20wise%20Passengers%20Air%20Traffic.png)
 
 ### 📦 6. Country-Wise Freight Movement  
-![Freight by Country](images/Country%20wise%20Freight%20Air%20Traffic.png)
+![Freight by Country](Images/Country%20wise%20Freight%20Air%20Traffic.png)
 
 ### 🏙️ 7. City-Level Air Traffic Overview  
-![City Traffic](images/City%20wise%20Air%20Traffic.png)
+![City Traffic](Images/City%20wise%20Air%20Traffic.png)
 
 ### 🛫 8. Top 10 Airlines by Passenger Volume  
-![Top 10 Airlines](images/Top%2010%20Airline%20for%20Passenger%20travel.png)
+![Top 10 Airlines](Images/Top%2010%20Airline%20for%20Passenger%20travel.png)
 
 ### 📅 9. Monthly Trends of Passenger & Freight  
-![Monthly Traffic](images/Comparison%20of%20Passenger%20and%20Freight%20Traffic.png)
+![Monthly Traffic](Images/Comparison%20of%20Passenger%20and%20Freight%20Traffic.png)
 
 ---
 
