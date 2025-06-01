@@ -74,6 +74,7 @@ Example DAX:
 ```DAX
 Total Passengers = [Passengers From India] + [Passengers To India]
 Freight Difference = [Freight From India] - [Freight To India]
+```
 ---
 
 ### 💡 Additional DAX Applications
@@ -92,4 +93,4 @@ Used for data cleaning and transformation:
 - Merged `Year` and `Month` to form a `Date` column  
 - Changed data types using M syntax like:
 ```m
-Table.TransformColumnTypes(Source,{{"Passengers From India", Int64.Type}})
+Table.TransformColumnTypes(Source,{{"Passengers From India", Int64.Type}})```
