@@ -93,4 +93,20 @@ Used for data cleaning and transformation:
 - Merged `Year` and `Month` to form a `Date` column  
 - Changed data types using M syntax like:
 ```m
-Table.TransformColumnTypes(Source,{{"Passengers From India", Int64.Type}})```
+Table.TransformColumnTypes(Source,{{"Passengers From India", Int64.Type}})
+```
+
+### 🔄 Transformations Performed
+- Removed null, blank, and duplicate rows  
+- Combined `Year` and `Month` into a single `Date` column  
+- Changed column data types  
+- Deleted unnecessary columns  
+
+---
+
+## 📌 Project Outcomes
+- Developed advanced Power BI visualizations  
+- Built data models using a star schema  
+- Applied DAX and M for data manipulation  
+- Gained actionable insights from air traffic data  
+- Published a professional interactive dashboard  
